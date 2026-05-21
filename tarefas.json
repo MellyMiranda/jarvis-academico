@@ -1,0 +1,20 @@
+[
+  {
+    "id": 0,
+    "titulo": "Estudar embeddings",
+    "descricao": "Revisar materiais de RAG",
+    "concluida": false
+  },
+  {
+    "id": 1,
+    "titulo": "Finalizar slides",
+    "descricao": "Preparar apresentação do trabalho",
+    "concluida": true
+  },
+  {
+    "id": 2,
+    "titulo": "Treinar perguntas da prova",
+    "descricao": "Resolver exercícios de IA",
+    "concluida": false
+  }
+]
