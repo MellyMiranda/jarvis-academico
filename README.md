@@ -28,6 +28,13 @@ Opção 2: Executar localmente pelo GitHub
 
 ---
 
+# 🤖 Ferramentas de IA Utilizadas
+
+* Gemini
+* ChatGPT
+
+---
+
 # ✅ Funcionalidades Implementadas (Trabalho 1)
 
 ## 1. Consulta a materiais acadêmicos (RAG)
@@ -190,15 +197,6 @@ Limitações identificadas:
 * tarefas.json
 * agenda.json
 * logs.json
-
----
-
-# 🤖 Ferramentas de IA Utilizadas
-
-Ferramentas utilizadas durante o desenvolvimento:
-
-* Gemini
-* ChatGPT
   
 ---
 
