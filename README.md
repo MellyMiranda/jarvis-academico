@@ -13,7 +13,7 @@ O sistema integra:
 # ▶️ Execução
 
 Opção 1: Abrir diretamente pelo Google Colab
-1. Abrir o notebook no Google Colab (https://colab.research.google.com/drive/1ntC-Y_NBj7c9B9EV27LVQyNuighO4NwE#scrollTo=f66FuCRjaD_-)
+1. Abrir o notebook no Google Colab (https://colab.research.google.com/drive/1ntC-Y_NBj7c9B9EV27LVQyNuighO4NwE#scrollTo=KGw2b-eB2bxl)
 2. Executar todas as células do notebook
 3. Abrir interface Gradio gerado ao final da execução
 
