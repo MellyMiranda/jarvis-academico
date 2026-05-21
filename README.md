@@ -10,6 +10,24 @@ O sistema integra:
 
 ---
 
+# ▶️ Execução
+
+Opção 1: Abrir diretamente pelo Google Colab
+1. Abrir o notebook no Google Colab (https://colab.research.google.com/drive/1ntC-Y_NBj7c9B9EV27LVQyNuighO4NwE#scrollTo=f66FuCRjaD_-)
+2. Executar todas as células do notebook
+3. Abrir interface Gradio gerado ao final da execução
+
+Opção 2: Executar localmente pelo GitHub
+1. Abrir repositório no GitHub
+2. Clicar em: Code -> Download ZIP
+3. Extrair o arquivo .zip
+4. Abrir Google Colab
+5. Fazer upload do notebook: Trabalho_jarvis_academico.ipynb
+6. Executar todas as células
+7. Abrir interface Gradio gerado ao final da execução
+
+---
+
 # ✅ Funcionalidades Implementadas (Trabalho 1)
 
 ## 1. Consulta a materiais acadêmicos (RAG)
@@ -172,14 +190,6 @@ Limitações identificadas:
 * tarefas.json
 * agenda.json
 * logs.json
-
----
-
-# ▶️ Execução
-
-1. Abrir o notebook no Google Colab (https://colab.research.google.com/drive/1ntC-Y_NBj7c9B9EV27LVQyNuighO4NwE#scrollTo=f66FuCRjaD_-)
-2. Executar todas as células do notebook
-3. Abrir interface Gradio
 
 ---
 
