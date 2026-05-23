@@ -133,25 +133,15 @@ Quantidade: 10 documentos
 
 Temas/Arquivos usados:
 1.Fundamentos de Machine Learning
-  - Origem: url ???                         <-----------------------------
-2.IA-introducao
-  - Origem:
-3.ia_intro
-  - Origem:
-4.RegressãoLogística
-  - Origem:
-5.RedesNeurais
-  - Origem:
-6.IA e o seu impacto na otimização de processo
-  - Origem:
-7.ConceitosIA
-  - Origem:
-8.Rag
-  - Origem:
-9.Embeddings
-  - Origem:
-10.ML e DL
-  - Origem:
+2.Introdução à Inteligência Artificial.pdf
+3.Regressão Logística.pdf
+4.Redes Neurais Artificiais.pdf
+5.RAG.pdf
+6.Embeddings.pdf
+7.Deep Learning (DL).pdf
+8.LLM.pdf
+9.Gradiente na Inteligência Artificial.pdf
+10.Inteligência Artificial Generativa.pdf
 
 ---
 
