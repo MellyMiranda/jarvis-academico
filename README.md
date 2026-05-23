@@ -145,10 +145,10 @@ Temas/Arquivos usados:
 
 ---
 
-# ✂️ Estratégia de Chunking
+# ✂️ Estratégia de Chunking - "Janela deslizante"
 
-* divisão por tamanho de caracteres
-* overlap entre chunks para preservar contexto
+* divisão por tamanho de caracteres (500 caracters)
+* overlap entre chunks para preservar contexto (100 caracters)
 
 Impacto no sistema:
 
